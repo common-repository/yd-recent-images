@@ -1,0 +1,17 @@
+/*
+Default CSS Styles for the yd_recent_images widget plug-in
+YD Recent Images
+Version 0.1.0
+*/
+
+/**
+Recent Images
+**/
+
+div.yd_ri ul,
+div.yd_ri li {
+	list-style: none inside;
+	margin: 0;
+	margin-left: 0;
+	padding: 0;
+}
